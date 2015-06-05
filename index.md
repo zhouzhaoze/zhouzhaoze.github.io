@@ -15,7 +15,7 @@ title: Z\'s notes
   * Algorithms
   * C++ Primer
 
-###directory
+## Directory
 <ul>
   {% for post in site.posts %}
     <li>
