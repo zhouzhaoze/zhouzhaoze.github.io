@@ -1,6 +1,6 @@
 ---
 title: Personal Information
-layout: default
+layout: post
 ---
 # {{ page.title }}
 
