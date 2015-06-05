@@ -3,8 +3,8 @@ title: Z\'s notes
 ---
 # {{ page.title }}
 <zhouzhaoze@gmail.com>
-## Something useful for Linux Users
 
+## Something useful for Linux Users
 * [Linux Shell Scripting Tutorial v1.05r3 A Beginner's handbook](http://www.freeos.com/guides/lsst/)
 * [vbird linux](http://vbird.dic.ksu.edu.tw/)
 * [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)* 
