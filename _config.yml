@@ -1,2 +1,10 @@
 highlighter: pygments
 github: site.github.project_title
+markdown: kramdown
+krandom:
+  input: GFM
+
+#markdown: maruku
+#markdown: redcarpet
+#encoding: "utf-8"
+#markdown_ext: "markdown,md"
