@@ -1,9 +1,9 @@
-# My information
+# Personal Information
 
 ## Favoriate things
 * Cupoccino
-* fried rice with peanuts
-* banana
+* Fried rice with peanuts
+* Banana
 
 <!--## hateful things
 * having meals
