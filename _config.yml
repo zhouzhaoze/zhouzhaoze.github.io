@@ -3,6 +3,7 @@ github: site.github.project_title
 markdown: kramdown
 krandom:
   input: GFM
+encoding: UTF-8
 
 #markdown: maruku
 #markdown: redcarpet

@@ -1,5 +1,6 @@
 ---
 title: My Suggessions for Python Beginners
+layout: default
 ---
 # 关于Python入门的一些建议
 最近几个朋友问我关于使用python的一些问题。python是一门易学难精的语言，我曾尝试像学习C，C++那样子去看经典书籍，但十分费力，但并不妨碍我熟练地使用python完成各种任务。

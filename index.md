@@ -1,13 +1,14 @@
 ---
 title: Z\'s notes
+layout: default
 ---
 # {{ page.title }}
 <zhouzhaoze@gmail.com>
 
-## Something useful for Linux Users
-* [Linux Shell Scripting Tutorial v1.05r3 A Beginner's handbook](http://www.freeos.com/guides/lsst/)
+## Useful links for Linux Users
+* [Linux Shell Scripting Tutorial v1.05r3 A Beginner\'s handbook](http://www.freeos.com/guides/lsst/)
 * [vbird linux](http://vbird.dic.ksu.edu.tw/)
-* [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)* 
+* [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
 
 
 ## My favoriate books
@@ -15,7 +16,7 @@ title: Z\'s notes
   * Algorithms
   * C++ Primer
 
-## Directory
+## 目录
 <ul>
   {% for post in site.posts %}
     <li>

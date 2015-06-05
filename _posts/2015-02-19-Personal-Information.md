@@ -1,4 +1,8 @@
-# Personal Information
+---
+title: Personal Information
+layout: default
+---
+# {{ page.title }}
 
 ## Favoriate things
 * Cupoccino
